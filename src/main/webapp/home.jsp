@@ -11,7 +11,7 @@
         <nav>
             <ul>
                 <li><a href="home.jsp">Home</a></li>
-                <li><a href="rooms.jsp">Hotels</a></li>
+                <li><a href="rooms.jsp">Rooms</a></li>
                 <li><a href="bookings.jsp">Bookings</a></li>
                 <li><a href="contact.jsp">Contact Us</a></li>
             </ul>
