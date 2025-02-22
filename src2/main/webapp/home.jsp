@@ -22,7 +22,7 @@
         </div>
         <section class="intro">
             <h2>Find Your Perfect Stay</h2>
-            <p>Browse through a wide range of rooms and book your stay easily!</p>
+            <p>Browse through a wide range of hotel and book your stay easily!</p>
         </section>
         <section class="features">
             <div class="feature-card">
